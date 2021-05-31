@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @WiviWonderWoman
 👩‍🎓 I’m currently studying Webbdevelopment at Campus Värnamo learning: 
 
+<img src="vs.png" width="70px"> <img src="code.png" width="50px">
+
 <img src="html.png" width="50px"> <img src="css.png" width="50px"> <img src="js.png" width="50px"> 
 
 <img src="c-sharp.png" width="50px"> <img src="dot-net.png" width="50px"> 
