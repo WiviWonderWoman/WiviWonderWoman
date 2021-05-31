@@ -5,8 +5,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiviWonderWoman&count_private=true&show_icons=true&theme=dark)
-](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/WiviWonderWoman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiviWonderWoman&layout=compact&theme=dark)](https://github.com/WiviWonderWoman/github-readme-stats)
 
 
 ## Learning tools, webbtechniques and programming like:
