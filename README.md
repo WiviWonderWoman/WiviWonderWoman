@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WiviWonderWoman
 
-* 👩‍🎓 I’m currently studying Webbdevelopment at Campus Värnamo.
+* 👩‍🎓 I’m currently studying Webbdevelopment at Campus Värnamo, Sweden.
 * 🔥 I am passionate about diversity, availability and inclusion.
 * 🚀 I strive for a sustainable everyday life on all levels.
   
