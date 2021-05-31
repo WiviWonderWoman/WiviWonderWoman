@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @WiviWonderWoman
-👩‍🎓 I’m currently studying Webbdevelopment at Campus Värnamo 🌱 learning C#, JavaScript, HTML, CSS, React, .NET, REST-API and much more
+👩‍🎓 I’m currently studying Webbdevelopment at Campus Värnamo learning: 
+
+<img src="c-sharp.png" width="30px">, JavaScript, HTML, CSS, React, .NET, REST-API and much more
 - - 🔥 I am passionate about diversity, availability and inclusion
 
 <!---
