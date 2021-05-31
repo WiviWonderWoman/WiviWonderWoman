@@ -10,11 +10,11 @@
 
 
 ## Learning tools, webbtechniques and programming like:
-<img src="vs.png" width="50px"> <img src="code.png" width="50px"> <img src="github.jpg" width="50px">
-<img src="html.png" width="50px"> <img src="css.png" width="50px"> <img src="js.png" width="50px"> 
-<img src="c-sharp.png" width="50px"> <img src="dot-net.png" width="50px"> <img src="react-redux.png" width="100px"> 
+<img src="./images/vs.png" width="50px"> <img src="./images/code.png" width="50px"> <img src="./images/github.jpg" width="50px">
+<img src="./images/html.png" width="50px"> <img src="./images/css.png" width="50px"> <img src="./images/js.png" width="50px"> 
+<img src="./images/c-sharp.png" width="50px"> <img src="./images/dot-net.png" width="50px"> <img src="./images/react-redux.png" width="100px"> 
 
 ## You can also find me on 
   
-[<img src="Linkedin.png" width="50px">](https://www.linkedin.com/in/wivianne-grapenholt-673b701b6/)
+[<img src="./images/linkedin.png" width="50px">](https://www.linkedin.com/in/wivianne-grapenholt-673b701b6/)
 
