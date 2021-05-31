@@ -3,13 +3,13 @@
 
 ## Learning 
 ### Tools like:
-<img src="vs.png" width="50px"> <img src="code.png" width="50px">
+<img src="vs.png" width="50px"> <img src="code.png" width="50px"> <img src="github.png" width="50px">
 ### Webbtechniques like:
 <img src="html.png" width="50px"> <img src="css.png" width="50px"> <img src="js.png" width="50px"> 
 ### Object-oriented programming:
 <img src="c-sharp.png" width="50px"> <img src="dot-net.png" width="50px"> 
 ### Building SPA width:
-<img src="react.png" width="50px"> <img src="redux.png" width="50px"> 
+<img src="react-redux.png" width="100px"> 
 React, REST-API and much more
 - - 🔥 I am passionate about diversity, availability and inclusion
 
