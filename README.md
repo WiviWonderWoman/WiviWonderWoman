@@ -12,7 +12,7 @@
 ## Learning tools, webbtechniques and programming like:
 <img src="./images/vs.png" width="50px"> <img src="./images/code.png" width="50px"> <img src="./images/github.jpg" width="50px">
 <img src="./images/html.png" width="50px"> <img src="./images/css.png" width="50px"> <img src="./images/js.png" width="50px"> 
-<img src="./images/c-sharp.png" width="50px"> <img src="./images/dot-net.png" width="50px"> <img src="./images/react-redux.png" width="100px"> 
+<img src="./images/c-sharp.png" width="45px"> <img src="./images/dot-net.png" width="50px"> <img src="./images/react-redux.png" width="100px"> 
 
 ## You can also find me on 
   
