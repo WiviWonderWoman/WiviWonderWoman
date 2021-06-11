@@ -21,5 +21,5 @@
 
 ## You can also find me on 
   
-[<img src="./images/linkedin.png" width="50px">](https://www.linkedin.com/in/wivianne-grapenholt-673b701b6/)
+[<img src="./images/linkedin.png" width="50px">](https://www.linkedin.com/in/wivianne-grapenholt)
 
