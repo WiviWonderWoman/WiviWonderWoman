@@ -23,4 +23,4 @@
 ## You can also find me on 
   
 [<img src="./images/linkedin.png" width="50px">](https://www.linkedin.com/in/wivianne-grapenholt)
-
+[<img src="./images/polywork.png" width="50px">](https://www.polywork.com/wiviwonderwoman)
