@@ -1,4 +1,4 @@
-# <img src="./images/wave-hand.gif" width="30px"> Hi, I’m @WiviWonderWoman <img src="./images/wave-hand.gif" width="30px">
+# <img src="./images/wave-hand.gif" width="5px"> Hi, I’m @WiviWonderWoman <img src="./images/wave-hand.gif" width="5px">
 
 
  
