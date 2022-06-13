@@ -1,9 +1,5 @@
-# <img src="./images/wave-hand.gif" width="5px"> Hi, I’m @WiviWonderWoman <img src="./images/wave-hand.gif" width="5px">
+# Hi, I’m @WiviWonderWoman 
 
-
- 
-
-👩‍🎓 I’m currently studying Webbdevelopment at Campus Värnamo, Sweden.
 
 🔥 I am passionate about diversity, availability and inclusion.
 
